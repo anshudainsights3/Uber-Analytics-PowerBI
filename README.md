@@ -1,7 +1,7 @@
 # Uber-Analytics-PowerBI  
 **Project Title:** Uber Performance & Operations Dashboard  
 
-An interactive **Power BI Dashboard** designed to analyze Uber’s operational and business performance metrics — including completed rides, revenue, driver ratings, cancellations, and vehicle-type analysis — providing valuable insights for strategic decision-making and efficiency improvement.
+An interactive **Power BI Dashboard** designed to analyze Uber’s operational and business performance metrics including completed rides, revenue, driver ratings, cancellations, and vehicle-type analysis — providing valuable insights for strategic decision-making and efficiency improvement.
 
 ---
 
